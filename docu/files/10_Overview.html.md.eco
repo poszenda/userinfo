@@ -1,0 +1,10 @@
+---
+title: 'Overview'
+---
+
+Currently, the <%- @partial('generalterm_builder') %> uses the **User Info** service to:
+- store and update the Builder-specific data for a <%- @partial('generalterm_user') %>
+- upload and store the user's profile image.
+This information is linked to the data retrieved from the access token.
+
+For details of how to retrieve general information about a YaaS user, see the <a href="/services/account/latest/index.html#accounts__email__get">Account</a> service API Reference.
