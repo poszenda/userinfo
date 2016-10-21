@@ -3,11 +3,9 @@ title: 'Retrieve User Info'
 type: 'Tutorial'
 ---
 
-In this tutorial you retrieve the Builder specific information about a YaaS user. This is linked with the data encoded in the access token.
-### Get the Builder specific user information
+In this tutorial, retrieve the Builder-specific information about a YaaS user. It is linked with the data encoded in the access token.
 
 #### Request
-
 To retrieve the Builder specific information about the user you need:
 
 <ul>
@@ -21,7 +19,7 @@ To retrieve the Builder specific information about the user you need:
 </ul>
 
 #### Example
-This shows a GET request to the `userinfo` endpoint:
+This example shows a `GET` request to the userinfo endpoint:
 
 ```
 curl 'http://api.yaas.io/hybris/userinfo/v1/userinfo' -H "Authorization: Bearer 021-cb5b8706-09a5-49c8-8516-f5ea552fdef0"
@@ -31,10 +29,9 @@ curl 'http://api.yaas.io/hybris/userinfo/v1/userinfo' -H "Authorization: Bearer 
 The successful response returns a `200` status code and information about the user data, similar to this example:
 
 ```
-{"helpMode":"true",
+{
+"helpMode":"true",
 "_currentOrganizationId":"8904f4a3c54e24db98850859",
 "builder_accomplished_tours":"[\"Home_nav\"]"
 }
 ```
-
-<%- @partial('errors_global') %>
