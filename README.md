@@ -25,10 +25,10 @@ You need to have special permissions if you want to add image files in this repo
 
 The following are code examples for images:
 
-||HTML|MD|
+||HTML|
 |--------|--------|
-|image | `<img src=/"img/img.png">`|
-|image (width):    | `<img style="width:75%;" src="img/img.png">`  ||
+|image | `<img src=/"img/img.png">`  |
+|image (width):    | `<img style="width:75%;" src="img/img.png">`|
 
 ### Tutorial guidelines
 
