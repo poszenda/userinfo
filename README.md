@@ -20,7 +20,9 @@ You can also verify the syntax from one of these sources:
 *	Markdown: http://daringfireball.net/projects/markdown/syntax
 
 #### Images
-You need to have special permissions if you want to add image files in this repository. Send an email with your github username to piotr.oszenda@sap.com and request the access. Put your image files in this directory:
+You need to have special permissions if you want to add image files in this repository. Send an email with your github username to piotr.oszenda@sap.com and request the access. 
+
+Put your image files in this directory:
  * docu/files/img
 
 The following are code examples for images:
