@@ -38,7 +38,7 @@ This shows a template for the Tutorial document:
 
 `---` <br />
 `title: 'Your tutorial title'`<br />
-`type: Tutorial`<br />
+`type: 'Tutorial'`<br />
 `--- ` <br />
 `Content of your tutorial.`
 
