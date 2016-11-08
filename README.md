@@ -29,7 +29,7 @@ The following are code examples for images:
 
 ||HTML|
 |--------|--------|
-|image | `<img src=/"img/img.png">`  |
+|image | `<img src="img/img.png">`  |
 |image (width):    | `<img style="width:75%;" src="img/img.png">`|
 
 ### Tutorial guidelines
