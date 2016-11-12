@@ -1,0 +1,60 @@
+--- 
+title: 'Add profile image' 
+type: 'Tutorial' 
+---
+
+<h1>Adding Profile Image Tutorial</h1>
+
+<p>In this tutorial, you will learn how to add a profile image in the <i>My profile</i> section after you sign in to the <a href="https://builder.yaas.io/login/login.html/"><i>Builder</i></a>.
+<br>
+
+<h2>Adding profile image step-by-step</h2>
+Please follow the steps outlined below:
+<br></p>
+<h3>
+<ol>
+<li>Sign in to the <a href="https://builder.yaas.io/login/login.html/"><i>Builder</i></a></li>
+<br><img style="width:50%;" src="/img/1_signin.png">
+<br>
+<br>
+<li>Select <i>My Account</i> and go to <i>My Profile</i></li>
+<br><img style="width:50%;" src="/img/2_gotomyprofile.png">
+<br>
+<br> 
+<li>Select <i>Upload Photo</i></li>
+<br><img style="width:50%;" src="/img/3_uploadphoto.png">
+<br>
+<br>
+<li>Choose an image</li>
+<br><img style="width:50%;" src="/img/4_chooseapicture.png">
+<br>
+<br>
+<li>Select <i>Save</i></li>
+<br><img style="width:50%;" src="/img/5_save.png">
+<br>
+<br>
+<li>Uploading imgage in progress</li>
+<br><img style="width:50%;" src="/img/6_watchprogress.png">
+<br>
+<br>
+<li>Profile details updated successfully</li>
+<br><img style="width:50%;" src="/img/7_finish.png">
+</ol>
+</h3>
+<br>
+<h2>Troubleshooting</h2>
+<h3>
+ <table style="width:50%">
+  <tr>
+    <th>PROBLEM</th>
+    <th>SOLUTION</th>
+  </tr>
+  <tr>
+    <td>Old image displaying instead of the newly uploaded one</td>
+    <td>Sign out and sign in to the Bulider</td>
+  </tr>
+  <tr>
+    <td>Error received and further assistance needed</td>
+    <td>Post a question on the <a href="https://experts.hybris.com/users/login.html/"><i>Experts Forum</i></a></td>
+  </tr>
+</table>
